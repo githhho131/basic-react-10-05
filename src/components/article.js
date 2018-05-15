@@ -1,6 +1,8 @@
 /*jshint esversion: 6 */
 /* jshint node: true */
 
+/*jshint strict:false */
+"use strict";
 
 
 
